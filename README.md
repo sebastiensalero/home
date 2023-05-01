@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sébastien</h1>
-<h3 align="center">A passionate fullstack developer from Annecy, France </h3>
+<h3 align="center">Passionate fullstack developer from Annecy, France </h3>
 
 <img align="center" src="https://user-images.githubusercontent.com/17951117/235473381-219b686b-8f2e-4ad2-98e1-afbefff2c908.jpg" alt="sebastien-salero" />
 
